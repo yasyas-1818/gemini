@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# venv
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# secrets
+.env
+*.log
+
+# input
+input/
+
+#debug
+debug/
+
+#BK
+BK/
+
+#output
+output/
